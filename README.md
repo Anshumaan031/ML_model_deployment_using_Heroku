@@ -11,7 +11,7 @@ Heroku provides three different ways to deploy models: Heroku git, GitHub, and t
 ## configuration files
 
 ### procfile
-this file is created for mentioning the file that has to be run at the beginning. (flask app name also has to be included)
+this file is created for mentioning the file that has to run at the beginning. (flask app name also has to be included)
 
 example:
 ```
